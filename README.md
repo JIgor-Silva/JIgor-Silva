@@ -3,6 +3,8 @@
 <h1 align="center">Fala aí, eu sou o João Igor 👋</h1>
 
 <h3 align="left">🛠 Linguagens e Ferramentas</h3> <p align="left"> <img src="https://skillicons.dev/icons?i=ruby,rails,java,spring,tailwind,postgres,mysql,postman" /> </p>
-<h3 align="left">📈 GitHub Stats</h3><p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JIgor-Silva&layout=compact&theme=tokyonight" width="2000" height="190"/></p>
+
+<p></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JIgor-Silva&layout=compact&theme=tokyonight" width="2000" height="190"/></p>
 
 
