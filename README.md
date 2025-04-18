@@ -27,8 +27,6 @@ Mesmo faltando bastante conteudo para ver e praticar em Ruby, tenho evoluído mu
 
 Graduando em Engenharia de Software, estou sempre buscando evoluir com base nas demandas do mercado. Me interesso por boas práticas de arquitetura, testes, versionamento e metodologias ágeis como Scrum e Kanban. Gosto de explorar novas ferramentas e otimizar processos para entregar produtos cada vez melhores.
 
-<h3 align="left">🛠 Linguagens e Ferramentas</h3> <p align="left"> 
-
 <p></p>
 
 
