@@ -2,9 +2,7 @@
 <div align="center"> <a href="https://www.linkedin.com/in/igor-m-silva/" target="_blank"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" /> 
 <h1 align="center">👋 Olá, tudo bem?</h1>
 Sou João Igor, desenvolvedor de software apaixonado por tecnologia e por transformar ideias em soluções reais. 
-Atualmente, atuo como desenvolvedor Full Stack, com foco no back-end e em constante aprendizado no front-end.
-Minha base sólida está em Java e C#, mas recentemente estou mergulhando no universo Ruby on Rails. Estou me desenvolvendo com agilidade, aprendendo rápido e aplicando o que estudo em projetos reais.
-Mesmo faltando bastante conteudo para ver e praticar em Ruby, tenho evoluído muito por conta das boas práticas e padrões de projeto que venho praticando todo dia.
+Atualmente, atuo como desenvolvedor Full Stack, mergulhando no universo Ruby on Rails. Sempre com agilidade,  e aplicando o que estudo em projetos reais.
 
   <h3 align="left"> 💻  Tech Stack</h3>
 
