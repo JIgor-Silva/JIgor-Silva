@@ -6,20 +6,20 @@ Atualmente, atuo como desenvolvedor Full Stack, mergulhando no universo Ruby on 
 
   <h3 align="left"> 💻  Tech Stack</h3>
 
-    Linguagens: Java, C#, Ruby , Typescript    
+  Linguagens: Java, C#, Ruby , Typescript    
 
-      Frameworks: Spring Boot, Ruby on Rails
+  Frameworks: Spring Boot, Ruby on Rails
 
-    Testes: JUnit, RSpec
+  Testes: JUnit, RSpec
 
-    Banco de dados: PostgreSQL, MySQL
+  Banco de dados: PostgreSQL, MySQL
 
-    Front-end: Tailwind CSS, Bootstrap,
-        React, React-Native.
+  Front-end: Tailwind CSS, Bootstrap,
+  React, React-Native.
 
-    Ferramentas: GitHub, Postman
+  Ferramentas: GitHub, Postman
 
-    Ambiente: Linux (Ubuntu com Zsh)
+  Ambiente: Linux
 <img src="https://skillicons.dev/icons?i=ruby,rails,java,spring,tailwind,postgres,mysql,postman" /> </p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JIgor-Silva&layout=compact&theme=tokyonight" width="2000" height="190"/></p>
 
