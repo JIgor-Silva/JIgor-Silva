@@ -8,14 +8,14 @@ Atualmente, atuo como desenvolvedor Full Stack, mergulhando no universo Ruby on 
 
     Linguagens: Java, C#, Ruby , Typescript    
 
-    Frameworks: Spring Boot, Ruby on Rails
+      Frameworks: Spring Boot, Ruby on Rails
 
     Testes: JUnit, RSpec
 
     Banco de dados: PostgreSQL, MySQL
 
     Front-end: Tailwind CSS, Bootstrap,
-    React, React-Native.
+        React, React-Native.
 
     Ferramentas: GitHub, Postman
 
