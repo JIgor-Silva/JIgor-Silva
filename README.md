@@ -21,9 +21,6 @@ Atualmente, atuo como desenvolvedor Full Stack, mergulhando no universo Ruby on 
     Ambiente: Linux (Ubuntu com Zsh)
 <img src="https://skillicons.dev/icons?i=ruby,rails,java,spring,tailwind,postgres,mysql,postman" /> </p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JIgor-Silva&layout=compact&theme=tokyonight" width="2000" height="190"/></p>
- <h3 align="left"> 📚 Aprendizado contínuo </h3>
-
-Graduando em Engenharia de Software, estou sempre buscando evoluir com base nas demandas do mercado. Me interesso por boas práticas de arquitetura, testes, versionamento e metodologias ágeis como Scrum e Kanban. Gosto de explorar novas ferramentas e otimizar processos para entregar produtos cada vez melhores.
 
 <p></p>
 
