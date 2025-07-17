@@ -6,7 +6,7 @@ Atualmente, atuo como desenvolvedor Full Stack, mergulhando no universo Ruby on 
 
   <h3 align="left"> 💻  Tech Stack</h3>
 
-    Linguagens: Java, C#, Ruby    
+    Linguagens: Java, C#, Ruby , Typescript    
 
     Frameworks: Spring Boot, Ruby on Rails
 
@@ -14,7 +14,7 @@ Atualmente, atuo como desenvolvedor Full Stack, mergulhando no universo Ruby on 
 
     Banco de dados: PostgreSQL, MySQL
 
-    Front-end: Tailwind CSS, Bootstrap, Angular (nível intermediário)
+    Front-end: Tailwind CSS, Bootstrap, React, React-Native.
 
     Ferramentas: GitHub, Postman
 
