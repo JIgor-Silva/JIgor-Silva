@@ -18,8 +18,8 @@ Atualmente, atuo como desenvolvedor Full Stack, mergulhando no universo Ruby on 
   React, React-Native.
 
   Ferramentas: GitHub, Postman
-
   Ambiente: Linux
+  
 <img src="https://skillicons.dev/icons?i=ruby,rails,java,spring,tailwind,postgres,mysql,postman" /> </p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JIgor-Silva&layout=compact&theme=tokyonight" width="2000" height="190"/></p>
 
