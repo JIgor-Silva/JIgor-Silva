@@ -14,7 +14,8 @@ Atualmente, atuo como desenvolvedor Full Stack, mergulhando no universo Ruby on 
 
     Banco de dados: PostgreSQL, MySQL
 
-    Front-end: Tailwind CSS, Bootstrap, React, React-Native.
+    Front-end: Tailwind CSS, Bootstrap,
+    React, React-Native.
 
     Ferramentas: GitHub, Postman
 
