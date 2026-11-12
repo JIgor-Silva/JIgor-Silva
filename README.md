@@ -1,24 +1,7 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50%:1e3a8a,100%:dc2626&height=180&section=header&text=Igor%20Silva&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descSize=20&descAlignY=60" width="100%" alt="Banner" />
-
-<img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Coding from home" />
-
-<br/><br/>
-
-<a href="https://github.com/JIgor-Silva">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full+Stack+J%C3%BAnior;Ruby+no+back-end%2C+React+no+front-end;Testes+automatizados+com+RSpec;Jobs+ass%C3%ADncronos+com+Sidekiq;Confiabilidade+em+produ%C3%A7%C3%A3o+%28SRE%29" alt="Typing SVG" />
-</a>
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/igor-m-silva/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:jjigorsilva@hotmail.com">
-  <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
-</a>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50%:1e3a8a,100%:dc2626&height=120&section=header&text=Igor%20Silva&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer&descSize=16&descAlignY=68" width="100%" alt="Banner" />
+<img height="110" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Coding from home" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&height=32&lines=Desenvolvedor+Full+Stack+J%C3%BAnior;Ruby+no+back-end%2C+React+no+front-end;Testes+automatizados+com+RSpec;Jobs+ass%C3%ADncronos+com+Sidekiq;Confiabilidade+em+produ%C3%A7%C3%A3o+%28SRE%29" alt="Typing SVG" />
 </div>
 
 ---
@@ -79,8 +62,8 @@ end
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JIgor-Silva/JIgor-Silva/output/pacman-contribution-graph-dark.svg" />
-    <img alt="Pac-Man comendo minhas contribuições" src="https://raw.githubusercontent.com/JIgor-Silva/JIgor-Silva/output/pacman-contribution-graph.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JIgor-Silva/JIgor-Silva/output/galaga-contribution-graph-dark.svg" />
+    <img alt="Nave atirando nas minhas contribuições" src="https://raw.githubusercontent.com/JIgor-Silva/JIgor-Silva/output/galaga-contribution-graph.svg" />
   </picture>
 </div>
 
