@@ -45,20 +45,7 @@ end
 
 ---
 
-### ⚙️ O que eu faço com cada tecnologia
-
-| Tecnologia | No meu dia a dia |
-|---|---|
-| **Ruby / Rails** | Regras de negócio, serviços, consultas e endpoints de um ERP de vendas. |
-| **React** | Interfaces com muitos dados: tabelas, filtros, formulários e relatórios gráficos. |
-| **RSpec** | Testes de regras críticas, casos de borda e proteção contra regressões. |
-| **Sidekiq** | Jobs assíncronos para relatórios pesados, com retentativas e idempotência. |
-| **SRE / Bugs** | Causa raiz, correção segura em produção e testes para não voltar a acontecer. |
-| **Git** | Versionamento, code review e entregas organizadas em equipe. |
-
----
-
-### 🕹️ Minhas contribuições viraram um jogo
+<h2 align="center">⚡ Engineering Blueprint</h2>
 
 <div align="center">
   <picture>
